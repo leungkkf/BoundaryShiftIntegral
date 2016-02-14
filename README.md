@@ -1,5 +1,3 @@
-# BoundaryShiftIntegral
-
 ########################
 # BSI SOFTWARE PACKAGE #
 ########################
